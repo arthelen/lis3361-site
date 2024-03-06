@@ -1,0 +1,47 @@
+html, body   {
+       font-family: garamond;
+	   text-align: center;
+	   background-color:#FAEAEA;
+       }
+h1     {
+       color: #714040;
+       }
+h2     {
+       color: #C4A1A1;
+       }	
+h3     {
+       color: white;
+       }
+h4     {
+       color: black;
+       }	   
+p	   {
+	   font-size: 150%;
+	   }
+dl	   {
+	   font-size: 150%;
+	   list-style-position: inside;
+	   }
+a:link {
+       color: #C4A1A1;
+       }
+a:visited {
+       color: #C4A1A1;
+       }
+a:hover {
+		color: #714040;
+		}
+.FloatingBox	{
+		float: right;
+		width: 300px;
+		background-color: #714040;
+		border-width: 5px;
+		border-style: outset;
+		border-color: #C4A1A1;
+		padding: 20px;
+		margin: 150px;
+		font-weight: bold;
+		font-size: 10pt;
+		color: white;
+				}
+				
